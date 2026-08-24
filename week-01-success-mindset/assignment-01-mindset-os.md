@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe I am special; not in a narcisistic way but that I can achieve whatever even if it feels impossible and no matter the setback.
 
 ---
 
@@ -55,35 +55,33 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Even if you do good or bad, bad thing will happen to you, but how you come back tells more about your resilience
 
 ### Evidence from my life
 
-Add your answer here...
+I helped so many people growing up, even till now. But the person the cost the most setback in my life is the person I helped the most in my life.
 
 ---
 
-## Truth #2
+## Truth #2 
 
-### Truth
+### Life does not wait for anybody. It goes on!
 
-Add your answer here...
 
 ### Evidence from my life
-
-Add your answer here...
+Truth After I lost everything, I realised I had to work twice as much harder to catch up with life. And even at that, I was still struggling and friends were far ahead of me.
 
 ---
 
 ## Truth #3
 
-### Truth
+### 
 
-Add your answer here...
+Nobody cares about you if you fail, people truly care about you when you succeed and you can add value to them.
 
 ### Evidence from my life
 
-Add your answer here...
+I have seen goo friend that stopped talking to me when I was struggling, and that opened my eyes to reality of life.
 
 ---
 
@@ -134,16 +132,140 @@ Include this line:
 > **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
+The Career I Built: From DevOps to Cloud Security Solution Architect
 
-Add your answer here...
+I built a career at the intersection of DevOps, cloud engineering, networking, solution architecture, and cybersecurity.
+
+Looking back, my career did not happen by accident. I deliberately built it layer by layer. I started with Linux and networking, developed strong infrastructure and automation skills, moved into DevOps and cloud engineering, and eventually became a Cloud Security Solution Architect capable of designing secure, scalable, highly available cloud environments.
+
+I built my foundation by becoming genuinely strong in Linux, networking, systems administration, and infrastructure. I worked with Linux servers, SSH, Nginx, DNS, storage, NFS, backups, Bash automation, Docker, monitoring, and server hardening. I did not just study these technologies for certifications. I built projects with them, broke things, troubleshot them, rebuilt them, documented what I learned, and turned that experience into practical engineering skills.
+
+My networking background became one of my biggest advantages.
+
+I developed deep expertise in routing, switching, BGP, OSPF, VPN technologies, firewalls, network security, and network troubleshooting. I then connected that knowledge to cloud networking, learning how traditional networking principles translated into AWS, Azure, and modern cloud architectures.
+
+From there, I moved into DevOps engineering.
+
+I built CI/CD pipelines, automated infrastructure, worked with Git, containers, Docker, Kubernetes, infrastructure as code, monitoring, logging, and cloud platforms. I learned how development, infrastructure, security, and operations fit together rather than treating them as separate disciplines.
+
+I shipped real projects.
+
+My GitHub became a portfolio of my engineering journey. It contained Linux administration projects, Bash automation, Docker deployments, CI/CD pipelines, infrastructure-as-code projects, cloud architectures, networking labs, security implementations, monitoring solutions, and complete end-to-end environments.
+
+My portfolio demonstrated what I could actually build.
+
+My certifications supported that evidence.
+
+I earned certifications across networking, cloud, DevOps, and cybersecurity, progressively moving from foundational credentials to advanced professional certifications. I used certifications to structure my learning and validate my knowledge, but I never allowed certifications to become a substitute for practical experience.
+
+My professional career progressed with that same discipline.
+
+I worked as a DevOps Engineer, where I automated infrastructure, improved deployment processes, supported cloud environments, implemented monitoring and observability, and helped teams deliver applications more reliably.
+
+As my experience grew, I took on greater responsibility.
+
+I moved into Cloud Engineering and Solution Architecture, where I stopped thinking only about individual servers or deployments and began thinking about entire systems: availability, scalability, networking, identity, security, cost, performance, disaster recovery, governance, and business requirements.
+
+Eventually, security became central to my architecture work.
+
+I specialized in Cloud Security Architecture and DevSecOps.
+
+I designed cloud environments using principles such as Zero Trust, least privilege, defense in depth, network segmentation, encryption, identity-centric security, secure CI/CD, centralized logging, continuous monitoring, vulnerability management, and infrastructure as code.
+
+I built security into architectures from the beginning rather than treating it as something added after deployment.
+
+I worked with cloud IAM, security groups and network controls, firewalls, WAFs, secrets management, encryption, security monitoring, SIEM platforms, vulnerability management, container security, Kubernetes security, and secure software delivery.
+
+I learned to look at architecture from both sides:
+
+How do we build this system?
+
+and
+
+How do we make sure this system is secure, resilient, observable, and recoverable?
+
+That combination became my professional advantage.
+
+I also built a public technical portfolio.
+
+I published articles about the technologies and problems I worked with. I documented my projects, architecture decisions, troubleshooting processes, security implementations, and lessons learned. My blog became evidence of how I think as an engineer and architect.
+
+I contributed to the technical community by sharing knowledge, helping other engineers solve problems, participating in technical discussions, and mentoring people who were earlier in their careers.
+
+Eventually, I began leading.
+
+I led technical discussions, architecture reviews, cloud implementation projects, security initiatives, and engineering teams. I learned how to communicate technical decisions to engineers, managers, security professionals, and business stakeholders.
+
+That was an important transition.
+
+I was no longer measured only by how well I could configure a system.
+
+I was measured by whether I could understand a problem, design the right solution, communicate the architecture, lead implementation, manage risk, and ensure the final environment was secure and operationally sound.
+
+My career progression became clear:
+
+Linux → Networking → DevOps → Cloud Engineering → Solution Architecture → Cloud Security Architecture
+
+I did not throw away what I learned at each stage.
+
+I built on it.
+
+Linux taught me how systems work.
+
+Networking taught me how systems communicate.
+
+DevOps taught me how to automate and operate systems.
+
+Cloud taught me how to design scalable and resilient infrastructure.
+
+Security taught me how to protect those systems.
+
+Architecture taught me how to bring everything together.
+
+Leadership taught me how to turn technical knowledge into organizational impact.
+
+By this point in my career, my GitHub, portfolio, certifications, professional experience, published technical work, and community contributions all told the same story.
+
+I had built secure cloud platforms.
+
+I had shipped automation and DevSecOps solutions.
+
+I had led engineering and architecture initiatives.
+
+I had published technical knowledge and project documentation.
+
+I had earned advanced certifications across networking, cloud, DevOps, and security.
+
+I had contributed to the engineering community.
+
+And I had built something bigger than a collection of certifications or job titles.
+
+I had built expertise.
+
+Today, I am a Cloud Security Solution Architect who understands infrastructure from the operating system all the way to the cloud architecture and security layer.
+
+I can sit down with an organization, understand its technical and business requirements, identify the risks, design the architecture, explain why the architecture is appropriate, lead the implementation, and ensure that security is embedded throughout the environment.
+
+This is the career I built.
+
+And when I look back at where I started, I realize that the biggest advantage was not one certification, one job, or one technology.
+
+It was the decision to keep building.
+
+I built the skills.
+I built the projects.
+I built the portfolio.
+I built the experience.
+I built the reputation.
+And ultimately, I built the career I set out to create.
+
 
 ### Public Link
-
-Paste your link here:
+Medium
 
 `Add your URL here`
+https://medium.com/@lettertojoe_96421/the-career-i-built-from-devops-to-cloud-security-solution-architect-1daac628a32c
 
----
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -173,7 +295,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No, I ave never cut corners in life.
 
 ---
 
@@ -199,16 +321,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Phoenix Project
+2. The DevOps Handbook
+3. Accelerate
+4. Designing Data-Intensive Applications
+5. The Practice of System and Network Administration
+6. The Manager's Path
+7. The Staff Engineer's Path
+8. Thinking in Systems
+9. The Psychology of Money
+10. Meditations
 
 ---
 
@@ -237,16 +359,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Communication quality
+* Professional network
+* Job performance
+* Multiple income streams
+* Financial goals
+* Reading time
+* Exercise
+* Certifications earned
+* Leadership skills
+* Relationshion with family
 
 ---
 
@@ -272,7 +394,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+No. I am not in my location I have been in 13 years. I am going back in 5 months. then, this will be relevant.
 
 ---
 
@@ -290,7 +412,7 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Minimum of 3 hours for DMI everyday, except for Sundays.
 
 ---
 
@@ -298,11 +420,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Everyday
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Minimum of 3 hours per week.
 
 ---
 
@@ -316,7 +438,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+I have downloaded an app that measures and alert how many minutes I have used on screen. This will help me to cut down screen time.
 
 ---
 
@@ -324,28 +446,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I can do anyhting.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I have sleeping problem, which could affect my progress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Read even when I  do not feel like it.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+www.linkedin.com/in/ozurumba-j-3b780126
 
 ---
 
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : (https://medium.com/@lettertojoe_96421/the-career-i-built-from-devops-to-cloud-security-solution-architect-1daac628a32c?postPublishedType=initial)
 
 ---
 
