@@ -130,7 +130,7 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Solved | ✅ Completed |https://lnkd.in/p/e4p-NY-B|https://medium.com/@lettertojoe_96421/connecting-the-dots-networking-applications-devops-for-beginners-e266e3224258|
 | 01 | Success Mindset | ✅ Solved | ✅ Completed| — | https://medium.com/@lettertojoe_96421/the-career-i-built-from-devops-to-cloud-security-solution-architect-1daac628a32c?sharedUserId=lettertojoe_96421|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
