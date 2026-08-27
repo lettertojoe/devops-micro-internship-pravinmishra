@@ -25,8 +25,9 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
+![Task 1 Screenshot](screenshots/Task-1-a.png)
+![Task 1b Screenshot](screenshots/Task-1-b.png)
+![Task 1c Screenshot](screenshots/Task-1-c.png)
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
@@ -34,7 +35,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learnt the port numbers specific for each protocol. Port 80 HTTP, Port 443 for HTTPS and Port 22 for SSH conncetion.
 
 ---
 
@@ -59,7 +60,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+First, to access the website hosted in Finland, the computer needs communicate with the server in Finland, but this would not happen like magic. When a user type the name of the web site. The internet does not know the name by default, the name of the website has to be resolved to a unique number called the IP address, which is like the address of the server where the website is hosted. Your computer contacts several servers on the internet to ask them do you know whose IP addressthe name bears. When that is solved, then the user is handed the web page.
 
 ---
 
