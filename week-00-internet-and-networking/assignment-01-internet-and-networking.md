@@ -92,10 +92,9 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![2-Tier Application Architecture Diagram](screenshots/two-tier.png)
+![3-Tier Application Architecture Diagram](screenshots/Three-tier.png)
 
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -103,18 +102,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js
+* HTML, CSS and Javascript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Express.js, bcrypt
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -143,7 +142,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain Name System is like phone book of the internet. It converts human-readable name such as "epicreads.com", into IP address, such as 52.172.142.222. Your browser connects to the server at that IP address and then display the website. The type of record to use is A record, because A record is for IPv4.
+
+
 
 ---
 
@@ -179,10 +180,10 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/vscode.png)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
+
 
 ---
 
@@ -219,16 +220,26 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/e4p-NY-B
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+Connecting the Dots: Networking, Applications & DevOps
+This is how I would explain some of these concepts to someone who is just starting to learn DevOps.
+I’ve been spending time connecting some of the networking concepts that sit underneath the tools and technologies we use every day.
+One concept I’ve been revisiting is networking protocols — the rules that allow devices and applications to communicate. I also reinforced some important port numbers: HTTP – 80, HTTPS – 443, and SSH – 22.
+From there, I connected this to how the Internet works. Data is broken into packets and transmitted using packet switching. Devices communicate using IP addresses, while TCP/IP provides the foundation for communication. Protocols such as HTTP and HTTPS then enable communication between clients and web servers.
+I also explored two-tier and three-tier application architectures, looking at how technologies can be separated across the presentation, application/business logic, and database layers. This helps us better understand how applications are designed and how the different components communicate with each other.
+Another important piece is DNS (Domain Name System). Understanding how a domain name is translated into an IP address makes the process of accessing a website much clearer. I also learnt that an A record is used to map a domain name to an IPv4 address.
+Having a good Visual Studio Code setup is also important before diving deeper into DevOps. A well-configured development environment makes it easier to practise, experiment, and work with the different tools involved.
+One thing I’ve found particularly useful is using ChatGPT as a learning companion. When a concept isn’t immediately clear, I encourage students and fellow learners to ask for a simpler explanation, a real-world analogy, or a step-by-step breakdown. The goal isn’t to replace learning, but to ask the right questions to understand concepts more deeply and connect them to practical scenarios.
+The more I connect these concepts, the more I see that DevOps is not just about knowing tools and commands. Understanding what happens underneath those tools is what makes the bigger picture come together.
+Still learning. Still practising. Still connecting the dots — and ready to share what I learn along the way. 🚀
+#DevOps #Networking #CloudComputing #Linux #LearningInPublic #TechJourney
 
-Add your post content here...
 
 ---
 
@@ -236,20 +247,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+The use of Chatgpt
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Using Markdown on Github
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+Definitely.
 ---
 
 ## 📌 About DMI & CloudAdvisory
